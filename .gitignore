@@ -1,3 +1,11 @@
+# IDEs
+.vscode/
+.vs/
+.github/
+
+# MacOS
+.DS_Store
+
 # Prerequisites
 *.d
 
@@ -30,3 +38,6 @@
 *.exe
 *.out
 *.app
+
+# CMake
+build/
